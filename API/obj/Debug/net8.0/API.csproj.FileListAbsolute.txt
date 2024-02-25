@@ -242,3 +242,4 @@ D:\Practice\Programming\Course\.Net\Dating App\API\obj\Debug\net8.0\refint\API.d
 D:\Practice\Programming\Course\.Net\Dating App\API\obj\Debug\net8.0\API.pdb
 D:\Practice\Programming\Course\.Net\Dating App\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\Practice\Programming\Course\.Net\Dating App\API\obj\Debug\net8.0\ref\API.dll
+D:\Practice\Programming\Course\.Net\Dating App\API\obj\Debug\net8.0\API.sourcelink.json
