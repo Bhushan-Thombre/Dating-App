@@ -1,10 +1,3 @@
-using API.Data;
-using Microsoft.EntityFrameworkCore;
-using API.Interfaces;
-using API.Services;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-using System.Text;
 using API.Extensions;
 
 
