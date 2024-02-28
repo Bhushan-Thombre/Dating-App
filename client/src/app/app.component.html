@@ -1,6 +1,9 @@
-<h1>{{ title }}</h1>
-<ul>
-    <li *ngFor="let user of users">
-        {{ user.id }} - {{ user.userName }}
-    </li>
-</ul>
+<app-nav (clickEvent)="checkClicked($event)"></app-nav>
+<hr />
+<!-- Later, most probably routes will be used here. -->
+<div *ngIf="clicked">
+  <app-login></app-login>
+</div>
+<!-- <ul>
+  <li *ngFor="let user of users">{{ user.id }} - {{ user.userName }}</li>
+</ul> -->

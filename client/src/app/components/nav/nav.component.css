@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar h1 {
+  font-size: 32px;
+}
+
+.navItems > a {
+  padding: 24px;
+  margin: 24px;
+}
+
+.navItems a {
+  text-decoration: none;
+}
+
+/* Small Tablet Screens */
+@media (max-width: 767px) {
+  .navbar {
+    display: block;
+    text-align: center;
+  }
+
+  .navItems > a {
+    display: block;
+    padding: 12px;
+    margin: 0;
+  }
+}
+
+@media (max-width: 479px) {
+}
